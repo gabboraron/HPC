@@ -18,3 +18,13 @@ This is a collection of sources related to HPC &amp; SLURM
 - [Introduction to High-Performance and Parallel Computing](https://www.coursera.org/learn/introduction-high-performance-computing)
 
   
+## software
+- CFD
+  - http://gerris.dalembert.upmc.fr/
+  - https://www.3dcadportal.com/notas-de-prensa/novedades-en-helyx-software-cfd-para-diseno-e-ingenieria
+  - https://openfoam.org/
+  - https://www.openfoam.com/
+  - https://sim-flow.com/download/cfd-simulation-software/
+  - https://www.ansys.com/products/ansys-workbench
+  - https://www.freecad.org/
+  - https://github.com/ProjectPhysX/FluidX3D  
