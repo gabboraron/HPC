@@ -17,6 +17,12 @@ This is a collection of sources related to HPC &amp; SLURM
 - [Getting started with ARC](https://www.arc.ox.ac.uk/getting-started-arc)
 - [Introduction to High-Performance and Parallel Computing](https://www.coursera.org/learn/introduction-high-performance-computing)
 
+
+## learning materials:
+- https://guiesbibtic.upf.edu/recerca/hpc/system-access
+- https://www.educative.io/courses/learn-to-use-hpc-systems-and-supercomputers/introduction-to-slurm
+- https://www.hpcworkshops.com/tags/slurm.html
+  
   
 ## software
 - CFD
