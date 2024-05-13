@@ -22,6 +22,8 @@ This is a collection of sources related to HPC &amp; SLURM
 - https://guiesbibtic.upf.edu/recerca/hpc/system-access
 - https://www.educative.io/courses/learn-to-use-hpc-systems-and-supercomputers/introduction-to-slurm
 - https://www.hpcworkshops.com/tags/slurm.html
+- https://researchcomputing.princeton.edu/education/external-online-resources/slurm
+- https://sites.google.com/nyu.edu/nyu-hpc/training-support/tutorials/slurm-tutorial
   
   
 ## software
