@@ -1,7 +1,6 @@
 # HPC
 This is a collection of sources related to HPC &amp; SLURM
 
-
 - [rackslab / Slurm-web](https://github.com/rackslab/slurm-web)
   - [rackslab](https://rackslab.io/en/)
 - [CLEAR ML](https://clear.ml/)
@@ -17,6 +16,8 @@ This is a collection of sources related to HPC &amp; SLURM
 - [Getting started with ARC](https://www.arc.ox.ac.uk/getting-started-arc)
 - [Introduction to High-Performance and Parallel Computing](https://www.coursera.org/learn/introduction-high-performance-computing)
 
+## other tools
+- 
 
 ## learning materials:
 - https://guiesbibtic.upf.edu/recerca/hpc/system-access
