@@ -15,6 +15,8 @@ This is a collection of sources related to HPC &amp; SLURM
 - [Learning resources: SLURM](https://researchcomputing.princeton.edu/education/external-online-resources/slurm)
 - [Getting started with ARC](https://www.arc.ox.ac.uk/getting-started-arc)
 - [Introduction to High-Performance and Parallel Computing](https://www.coursera.org/learn/introduction-high-performance-computing)
+- [Awesome HPC](https://github.com/dstdev/awesome-hpc)
+- [HPC RTU](https://hpc.rtu.lv/hpc/hpc-software/?lang=en)
 
 ## Other tools
 - https://www-app.igb.illinois.edu/tools/slurm/
