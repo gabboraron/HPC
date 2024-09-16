@@ -27,6 +27,7 @@ This is a collection of sources related to HPC &amp; SLURM
 - https://www.hpcworkshops.com/tags/slurm.html
 - https://researchcomputing.princeton.edu/education/external-online-resources/slurm
 - https://sites.google.com/nyu.edu/nyu-hpc/training-support/tutorials/slurm-tutorial
+- https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/
   
   
 ## software
